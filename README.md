@@ -1,6 +1,6 @@
 # Power Consumption Prediction via autoregression and linear models
 
-Repository provides an instrument to forecasting power consumption in Russian business area. Our approach doesn't use specific variables allowed make forecasting with higher presicion. Also we don't use any heavy models like RNN because our main purpose was creating fast model work for linear time. 
+Repository provides an instrument to forecasting power consumption in Russian business area. Our approach doesn't use specific variables allowed make forecasting with higher presicion. Also we don't use any heavy models like RNN because our main purpose was creating fast model works for a linear time. 
 
 As a result we developed 2 algorithms:
 
